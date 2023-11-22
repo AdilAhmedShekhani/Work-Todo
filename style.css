@@ -11,14 +11,17 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background: #2f363e;
+  background-image: url(images/gettyimages-1156540328-2048x2048.jpg);
+  background-size: 100%;
+  /* background: #2f363e; */
 }
 .box {
   position: relative;
   width: 450px;
   height: 550px;
   border-radius: 30px;
-  background: #2f363e;
+  background-image: url(images/tolis/depositphotos_98094790-the-Wood-Back-ground-with-close-up.jpg);
+  /* background: #3a2514; */
   padding: 30px;
   box-shadow: 25px 25px 75px rgba(0, 0, 0, 0.25),
     10px 10px 70px rgba(0, 0, 0, 0.25), inset 5px 5px 10px rgba(0, 0, 0, 0.5),
